@@ -71,16 +71,6 @@ Traditional machine learning can still support narrower components such as trave
 - Measure performance by scenario and population, not only by aggregate accuracy.
 - Maintain monitoring, incident review, and controlled model-release processes.
 
-## What This Work Demonstrates
-
-For potential clients, this project demonstrates my ability to:
-
-- translate a business problem into a machine learning task;
-- distinguish structured-data prediction from deep-learning perception;
-- avoid unnecessary model complexity;
-- explain technical tradeoffs to a nontechnical audience;
-- connect model choice to cost, interpretability, deployment, and risk;
-- communicate the limits of an analysis rather than overstate results.
 
 ## Deliverables
 
