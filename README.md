@@ -90,17 +90,6 @@ For potential clients, this project demonstrates my ability to:
 
 ![One-page report preview](assets/report-preview.png)
 
-## Assignment Alignment
-
-| Requirement | Evidence in this project |
-| --- | --- |
-| Select two machine learning examples | House-price prediction and autonomous taxis |
-| Include one deep learning example | Autonomous-driving perception |
-| Identify a real-world application for each | Real-estate valuation and Waymo's autonomous ride-hailing service |
-| Explain why each selected approach is suitable | Data structure, modeling capability, resource needs, and explainability are addressed |
-| Explain why the other approach is unsuitable | Each case includes an explicit counter-comparison and scope boundary |
-
-The assignment file did not include a separate scoring rubric. This alignment review therefore uses the criteria supplied in the assignment instructions.
 
 ## Scope and Limitations
 
